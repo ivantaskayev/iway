@@ -424,7 +424,7 @@ body {
 }
 @media (max-width: 47.99875em) {
   .text, .menu__link, .link {
-    font-size: 13px;
+    font-size: 9px;
     line-height: 158%;
   }
 }
